@@ -53,3 +53,7 @@ git push -u origin main
 | backend  | `CLIENT_ORIGIN`   | 許可するフロントエンドのオリジン | `http://localhost:5173`     |
 | frontend | `VITE_API_BASE_URL` | バックエンド API の URL         | `http://localhost:4567`     |
 
+
+画面イメージ
+<img width="1920" height="3787" alt="image" src="https://github.com/user-attachments/assets/ce0a9791-de91-48e8-beb9-312f4190e472" />
+
