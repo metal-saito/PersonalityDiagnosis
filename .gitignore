@@ -1,0 +1,25 @@
+# General
+.DS_Store
+*.log
+tmp/
+
+# Ruby / Bundler
+backend/.bundle/
+backend/vendor/
+backend/.ruby-version
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+frontend/.eslintcache
+
+# Environment files
+.env
+.env.*
+
+# Coverage / Reports
+coverage/
+reports/
+
